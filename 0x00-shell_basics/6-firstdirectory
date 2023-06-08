@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -m 744 /tmp/my_first_directory 
